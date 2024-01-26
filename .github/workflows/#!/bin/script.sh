@@ -1,4 +1,4 @@
-#!/bin/
+#!/bin
 
 echo "I am being run from a script"
 
